@@ -1,0 +1,15 @@
+.home-form {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 20px;
+}
+
+.home-submit {
+    margin-top: 10px;
+}
+
+.home-div {
+    margin-top: 10px;
+}
